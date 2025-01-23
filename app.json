@@ -24,6 +24,9 @@
     },
     "plugins": [
       "expo-router",
+      "expo-av",
+      "expo-file-system",
+      "expo-notifications",
       [
         "expo-splash-screen",
         {
